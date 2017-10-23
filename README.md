@@ -1,6 +1,7 @@
-# Video_Game_Recommender
-** General Assembly Data Science Final Project **
-[Presentation link](https://docs.google.com/presentation/d/1WeLRmn3pQCgYQyMRhNDY9TzovsQcaZy1oHU0tjBFfOo/edit?usp=sharing)
+# Video Game Recommender
+** General Assembly Data Science Final Project **  
+[Presentation Link](https://docs.google.com/presentation/d/1WeLRmn3pQCgYQyMRhNDY9TzovsQcaZy1oHU0tjBFfOo/edit?usp=sharing)
+
 
 ## Data & Algorithm
 1. Keras' pretrained neural networks for visual similarity recommendations (Game Covers)
