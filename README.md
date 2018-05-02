@@ -1,6 +1,5 @@
 # Video Game Recommendation System
 **General Assembly Data Science Course Final Project**  
-[Presentation Link](https://docs.google.com/presentation/d/1WeLRmn3pQCgYQyMRhNDY9TzovsQcaZy1oHU0tjBFfOo/edit?usp=sharing)
 
 **Jupyter Notebook**  
 1. [Web Scraping](http://nbviewer.jupyter.org/github/DanDanHuang/Video_Game_Recommender-/blob/master/Web_Scraping.ipynb)
